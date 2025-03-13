@@ -1,0 +1,3 @@
+com.example.sensors.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

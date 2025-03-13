@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-mergeDebugResources-38:\\layout\\activity_services.xml",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\layout\\activity_services.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-mergeDebugResources-38:\\layout\\activity_contact_us.xml",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\layout\\activity_contact_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-mergeDebugResources-38:\\layout\\client_card.xml",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\layout\\client_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-mergeDebugResources-38:\\layout\\activity_explore_services.xml",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\layout\\activity_explore_services.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-mergeDebugResources-38:\\layout\\client_item.xml",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\layout\\client_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-mergeDebugResources-38:\\layout\\activity_video.xml",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\layout\\activity_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-mergeDebugResources-38:\\layout\\activity_contact.xml",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\layout\\activity_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-mergeDebugResources-38:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.gtechyderabad.gtec.app-mergeDebugResources-38:/layout/activity_video.xml",
+        "source": "com.gtechyderabad.gtec.app-main-41:/layout/activity_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-mergeDebugResources-38:\\layout\\activity_clients.xml",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\layout\\activity_clients.xml"
+    }
+]

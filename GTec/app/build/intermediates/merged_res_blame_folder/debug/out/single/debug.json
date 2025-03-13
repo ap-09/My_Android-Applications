@@ -1,0 +1,354 @@
+[
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_ic_branding.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\ic_branding.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_logo_gtec.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\logo_gtec.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_blur.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\blur.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_ic_uiux.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\ic_uiux.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_blue1.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\blue1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_ic_print.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\ic_print.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\layout_activity_services.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\layout\\activity_services.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_services.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\services.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_edittext_background.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\edittext_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\font_roboto_medium.ttf.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\font\\roboto_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_our_services.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\our_services.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_ic_email.png.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_contact.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\contact.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_discuss.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\discuss.jpg"
+    },
+    {
+        "merged": "com.gtechyderabad.gtec.app-merged_res-39:/layout_activity_video.xml.flat",
+        "source": "com.gtechyderabad.gtec.app-main-41:/layout/activity_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_ic_location.png.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\ic_location.png"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_ic_contact.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\ic_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_ic_videography.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\ic_videography.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_ic_facebook.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\ic_facebook.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_contact_us.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\contact_us.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_john3.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\john3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_profile.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\profile.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_ic_clients.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\ic_clients.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_ic_development.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\ic_development.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_white.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\white.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\layout_client_card.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\layout\\client_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_rounded_square_button.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\rounded_square_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_rounded_button.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\rounded_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_businessman_portrait.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\businessman_portrait.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_ic_photography.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\ic_photography.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\font_roboto_black.ttf.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\font\\roboto_black.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_ic_menu.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\ic_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_ic_idea.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\ic_idea.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_ic_chat.png.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\ic_chat.png"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\font_new_amsterdam_regular.ttf.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\font\\new_amsterdam_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\layout_client_item.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\layout\\client_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_rounded_navigation_bg.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\rounded_navigation_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_header_background.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\header_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_john.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\john.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\layout_activity_contact_us.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\layout\\activity_contact_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_diamond.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\diamond.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\font_roboto_bold.ttf.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\font\\roboto_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_serve.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\serve.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_ic_about_us.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\ic_about_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_servicess.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\servicess.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_ic_instagram.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\ic_instagram.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_shake_hand.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\shake_hand.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\raw_your_video_file.mp4.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\raw\\your_video_file.mp4"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_jane.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\jane.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_ic_phone.png.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\ic_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_blue.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\blue.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\font_bungee_tint_regular.ttf.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\font\\bungee_tint_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_ic_services.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\ic_services.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\layout_activity_contact.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\layout\\activity_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\layout_activity_explore_services.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\layout\\activity_explore_services.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_ic_phone_call.png.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\ic_phone_call.png"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\font_quicksand_variable_font_wght.ttf.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\font\\quicksand_variable_font_wght.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\font_quick_sand_bold.ttf.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\font\\quick_sand_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\layout_activity_clients.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\layout\\activity_clients.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_service.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\service.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\layout_activity_video.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\layout\\activity_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_ic_instagram1.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\ic_instagram1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_btn_background.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\btn_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_people.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\people.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_ic_arrow.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\ic_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_ic_twitter.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\ic_twitter.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\font_roboto_regular.ttf.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\font\\roboto_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_background_gradient.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\background_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_contacts.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\contacts.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-merged_res-39:\\drawable_header_gradient.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\8.7\\com.gtechyderabad.gtec.app-main-41:\\drawable\\header_gradient.xml"
+    }
+]

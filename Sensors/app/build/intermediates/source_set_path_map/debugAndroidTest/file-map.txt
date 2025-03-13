@@ -1,0 +1,7 @@
+com.example.sensors.test.app-annotation-experimental-1.3.0-0 C:\Users\Anju Priya\.gradle\caches\transforms-3\9d8d7feb3580355ffff343143a4678dc\transformed\annotation-experimental-1.3.0\res
+com.example.sensors.test.app-core-1.5.0-1 C:\Users\Anju Priya\.gradle\caches\transforms-3\cd423349e9fa80d0989033f52c5735f3\transformed\core-1.5.0\res
+com.example.sensors.test.app-androidTest-2 C:\Users\Anju Priya\AndroidStudioProjects\Sensors\app\build\generated\res\resValues\androidTest\debug
+com.example.sensors.test.app-androidTest-3 C:\Users\Anju Priya\AndroidStudioProjects\Sensors\app\build\generated\res\rs\androidTest\debug
+com.example.sensors.test.app-mergeDebugAndroidTestResources-4 C:\Users\Anju Priya\AndroidStudioProjects\Sensors\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.sensors.test.app-mergeDebugAndroidTestResources-5 C:\Users\Anju Priya\AndroidStudioProjects\Sensors\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.sensors.test.app-merged_res-6 C:\Users\Anju Priya\AndroidStudioProjects\Sensors\app\build\intermediates\merged_res\debugAndroidTest

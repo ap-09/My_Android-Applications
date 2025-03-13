@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/work"
+    tools:context=".fragment.SecondFragment">
+
+    <!-- Semi-transparent overlay to darken the background -->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#AA000000" />
+
+    <!-- Content Container -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerInParent="true"
+        android:padding="16dp"
+        android:gravity="center">
+
+        <!-- Popular Section Header -->
+        <TextView
+            android:id="@+id/tvPopularHeader"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Namaskaar!!"
+            android:textSize="28sp"
+            android:textStyle="bold"
+            android:textColor="@android:color/white"
+            android:gravity="center"
+            android:paddingBottom="8dp" />
+
+        <!-- Subheading / Tagline -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Discover the best dishes in town"
+            android:textSize="16sp"
+            android:textColor="@android:color/white"
+            android:gravity="center"
+            android:paddingBottom="16dp" />
+
+        <!-- ViewFlipper for transitioning descriptions with custom animations -->
+        <ViewFlipper
+            android:id="@+id/viewFlipper"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:flipInterval="3000"
+            android:inAnimation="@anim/scale_in"
+            android:outAnimation="@anim/scale_out">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Enjoy a wide range of mouth-watering dishes carefully curated just for you!"
+                android:textSize="18sp"
+                android:textColor="@android:color/white"
+                android:padding="16dp"
+                android:gravity="center"
+                android:background="@drawable/bg_text_card" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Our popular picks are known for their exceptional taste and quality."
+                android:textSize="18sp"
+                android:textColor="@android:color/white"
+                android:padding="16dp"
+                android:gravity="center"
+                android:background="@drawable/bg_text_card" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Order now and indulge in the flavors that everyone is talking about!"
+                android:textSize="18sp"
+                android:textColor="@android:color/white"
+                android:padding="16dp"
+                android:gravity="center"
+                android:background="@drawable/bg_text_card" />
+        </ViewFlipper>
+
+        <!-- Call-to-Action Button -->
+        <Button
+            android:id="@+id/btnExplore"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Explore Menu"
+            android:layout_marginTop="24dp"
+            android:padding="12dp"
+            android:backgroundTint="#7C6E7F"
+            android:textColor="@android:color/white" />
+    </LinearLayout>
+</RelativeLayout>

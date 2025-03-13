@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/cardViewVer"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="9dp"
+    app:cardCornerRadius="10dp"
+    app:cardElevation="4dp">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <!-- Image View that should take the full width and a fixed height -->
+        <ImageView
+            android:id="@+id/veg_img"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/panipuri"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/constraintLayout"/>
+
+        <!-- The content layout below the image -->
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:id="@+id/constraintLayout"
+            android:background="@drawable/round_bg"
+            app:layout_constraintVertical_bias="1"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/veg_img"
+            app:layout_constraintBottom_toBottomOf="parent">
+
+            <!-- Product name -->
+            <TextView
+                android:id="@+id/name"
+                android:fontFamily="@font/amita"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/product_name"
+                android:textColor="@color/white"
+                android:layout_marginTop="10dp"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintVertical_bias=".15"
+                app:layout_constraintHorizontal_bias=".1" />
+
+            <!-- Rating icon -->
+            <ImageView
+                android:id="@+id/img_des"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:layout_marginTop="4dp"
+                android:layout_marginRight="9dp"
+                android:src="@drawable/rating"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="1"
+                app:layout_constraintStart_toStartOf="@+id/name"
+                app:layout_constraintTop_toTopOf="parent"/>
+
+            <!-- Rating text -->
+            <TextView
+                android:id="@+id/rating"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/_5_0"
+                android:layout_margin="5dp"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toStartOf="@+id/img_des"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintBottom_toBottomOf="@+id/img_des"/>
+
+            <!-- Clock icon -->
+            <ImageView
+                android:id="@+id/clock"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/baseline_access_time_filled_24"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/name"
+                android:layout_marginLeft="30dp"/>
+
+            <!-- Timing text -->
+            <TextView
+                android:id="@+id/timing"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/_10_00_23_00"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/clock"
+                app:layout_constraintTop_toBottomOf="@+id/name"
+                android:layout_marginLeft="5dp"/>
+
+            <!-- Price text -->
+            <TextView
+                android:id="@+id/price"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Min - $45"
+                android:textStyle="bold"
+                android:textColor="@color/white"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/timing"
+                app:layout_constraintTop_toBottomOf="@+id/rating"
+                app:layout_constraintHorizontal_bias="1"
+                android:layout_marginRight="9dp"/>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.cardview.widget.CardView>

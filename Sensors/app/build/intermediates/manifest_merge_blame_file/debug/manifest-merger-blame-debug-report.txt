@@ -1,0 +1,179 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.sensors"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->C:\Users\Anju Priya\AndroidStudioProjects\Sensors\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="34" />
+9-->C:\Users\Anju Priya\AndroidStudioProjects\Sensors\app\src\main\AndroidManifest.xml
+10
+11    <!-- Permissions -->
+12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+12-->C:\Users\Anju Priya\AndroidStudioProjects\Sensors\app\src\main\AndroidManifest.xml:6:5-79
+12-->C:\Users\Anju Priya\AndroidStudioProjects\Sensors\app\src\main\AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+13-->C:\Users\Anju Priya\AndroidStudioProjects\Sensors\app\src\main\AndroidManifest.xml:7:5-81
+13-->C:\Users\Anju Priya\AndroidStudioProjects\Sensors\app\src\main\AndroidManifest.xml:7:22-78
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->C:\Users\Anju Priya\AndroidStudioProjects\Sensors\app\src\main\AndroidManifest.xml:8:5-66
+14-->C:\Users\Anju Priya\AndroidStudioProjects\Sensors\app\src\main\AndroidManifest.xml:8:22-64
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->C:\Users\Anju Priya\AndroidStudioProjects\Sensors\app\src\main\AndroidManifest.xml:9:5-78
+15-->C:\Users\Anju Priya\AndroidStudioProjects\Sensors\app\src\main\AndroidManifest.xml:9:22-76
+16    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+16-->C:\Users\Anju Priya\AndroidStudioProjects\Sensors\app\src\main\AndroidManifest.xml:10:5-75
+16-->C:\Users\Anju Priya\AndroidStudioProjects\Sensors\app\src\main\AndroidManifest.xml:10:22-73
+17    <uses-permission android:name="android.permission.BODY_SENSORS" />
+17-->C:\Users\Anju Priya\AndroidStudioProjects\Sensors\app\src\main\AndroidManifest.xml:11:5-71
+17-->C:\Users\Anju Priya\AndroidStudioProjects\Sensors\app\src\main\AndroidManifest.xml:11:22-68
+18
+19    <permission
+19-->[androidx.core:core:1.9.0] C:\Users\Anju Priya\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+20        android:name="com.example.sensors.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+20-->[androidx.core:core:1.9.0] C:\Users\Anju Priya\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+21        android:protectionLevel="signature" />
+21-->[androidx.core:core:1.9.0] C:\Users\Anju Priya\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+22
+23    <uses-permission android:name="com.example.sensors.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+23-->[androidx.core:core:1.9.0] C:\Users\Anju Priya\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+23-->[androidx.core:core:1.9.0] C:\Users\Anju Priya\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+24
+25    <application
+25-->C:\Users\Anju Priya\AndroidStudioProjects\Sensors\app\src\main\AndroidManifest.xml:13:5-38:19
+26        android:allowBackup="true"
+26-->C:\Users\Anju Priya\AndroidStudioProjects\Sensors\app\src\main\AndroidManifest.xml:15:9-35
+27        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+27-->[androidx.core:core:1.9.0] C:\Users\Anju Priya\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+28        android:dataExtractionRules="@xml/data_extraction_rules"
+28-->C:\Users\Anju Priya\AndroidStudioProjects\Sensors\app\src\main\AndroidManifest.xml:16:9-65
+29        android:debuggable="true"
+30        android:extractNativeLibs="false"
+31        android:fullBackupContent="@xml/backup_rules"
+31-->C:\Users\Anju Priya\AndroidStudioProjects\Sensors\app\src\main\AndroidManifest.xml:17:9-54
+32        android:icon="@drawable/logo"
+32-->C:\Users\Anju Priya\AndroidStudioProjects\Sensors\app\src\main\AndroidManifest.xml:18:9-38
+33        android:label="@string/app_name"
+33-->C:\Users\Anju Priya\AndroidStudioProjects\Sensors\app\src\main\AndroidManifest.xml:19:9-41
+34        android:supportsRtl="true"
+34-->C:\Users\Anju Priya\AndroidStudioProjects\Sensors\app\src\main\AndroidManifest.xml:20:9-35
+35        android:theme="@style/Theme.Sensors"
+35-->C:\Users\Anju Priya\AndroidStudioProjects\Sensors\app\src\main\AndroidManifest.xml:21:9-45
+36        android:usesCleartextTraffic="true" >
+36-->C:\Users\Anju Priya\AndroidStudioProjects\Sensors\app\src\main\AndroidManifest.xml:14:9-44
+37        <service
+37-->C:\Users\Anju Priya\AndroidStudioProjects\Sensors\app\src\main\AndroidManifest.xml:23:9-25:40
+38            android:name="com.example.sensors.FetchAddressIntentService"
+38-->C:\Users\Anju Priya\AndroidStudioProjects\Sensors\app\src\main\AndroidManifest.xml:24:13-54
+39            android:exported="false" />
+39-->C:\Users\Anju Priya\AndroidStudioProjects\Sensors\app\src\main\AndroidManifest.xml:25:13-37
+40
+41        <activity
+41-->C:\Users\Anju Priya\AndroidStudioProjects\Sensors\app\src\main\AndroidManifest.xml:26:9-28:40
+42            android:name="com.example.sensors.Constants"
+42-->C:\Users\Anju Priya\AndroidStudioProjects\Sensors\app\src\main\AndroidManifest.xml:27:13-38
+43            android:exported="false" />
+43-->C:\Users\Anju Priya\AndroidStudioProjects\Sensors\app\src\main\AndroidManifest.xml:28:13-37
+44        <activity
+44-->C:\Users\Anju Priya\AndroidStudioProjects\Sensors\app\src\main\AndroidManifest.xml:29:9-37:20
+45            android:name="com.example.sensors.MainActivity"
+45-->C:\Users\Anju Priya\AndroidStudioProjects\Sensors\app\src\main\AndroidManifest.xml:30:13-41
+46            android:exported="true" >
+46-->C:\Users\Anju Priya\AndroidStudioProjects\Sensors\app\src\main\AndroidManifest.xml:31:13-36
+47            <intent-filter>
+47-->C:\Users\Anju Priya\AndroidStudioProjects\Sensors\app\src\main\AndroidManifest.xml:32:13-36:29
+48                <action android:name="android.intent.action.MAIN" />
+48-->C:\Users\Anju Priya\AndroidStudioProjects\Sensors\app\src\main\AndroidManifest.xml:33:17-69
+48-->C:\Users\Anju Priya\AndroidStudioProjects\Sensors\app\src\main\AndroidManifest.xml:33:25-66
+49
+50                <category android:name="android.intent.category.LAUNCHER" />
+50-->C:\Users\Anju Priya\AndroidStudioProjects\Sensors\app\src\main\AndroidManifest.xml:35:17-77
+50-->C:\Users\Anju Priya\AndroidStudioProjects\Sensors\app\src\main\AndroidManifest.xml:35:27-74
+51            </intent-filter>
+52        </activity>
+53        <activity
+53-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Anju Priya\.gradle\caches\transforms-3\9302f9e461ea3508f2fdb1e1124e16a2\transformed\play-services-base-17.5.0\AndroidManifest.xml:23:9-26:75
+54            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+54-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Anju Priya\.gradle\caches\transforms-3\9302f9e461ea3508f2fdb1e1124e16a2\transformed\play-services-base-17.5.0\AndroidManifest.xml:24:13-79
+55            android:exported="false"
+55-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Anju Priya\.gradle\caches\transforms-3\9302f9e461ea3508f2fdb1e1124e16a2\transformed\play-services-base-17.5.0\AndroidManifest.xml:25:13-37
+56            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+56-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Anju Priya\.gradle\caches\transforms-3\9302f9e461ea3508f2fdb1e1124e16a2\transformed\play-services-base-17.5.0\AndroidManifest.xml:26:13-72
+57
+58        <meta-data
+58-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\Anju Priya\.gradle\caches\transforms-3\5fd96a2630d7756049a5bad5abac1a6d\transformed\play-services-basement-17.5.0\AndroidManifest.xml:23:9-25:69
+59            android:name="com.google.android.gms.version"
+59-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\Anju Priya\.gradle\caches\transforms-3\5fd96a2630d7756049a5bad5abac1a6d\transformed\play-services-basement-17.5.0\AndroidManifest.xml:24:13-58
+60            android:value="@integer/google_play_services_version" />
+60-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\Anju Priya\.gradle\caches\transforms-3\5fd96a2630d7756049a5bad5abac1a6d\transformed\play-services-basement-17.5.0\AndroidManifest.xml:25:13-66
+61
+62        <provider
+62-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Anju Priya\.gradle\caches\transforms-3\791b39fe68826e8543c46f2d7f8b152e\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+63            android:name="androidx.startup.InitializationProvider"
+63-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Anju Priya\.gradle\caches\transforms-3\791b39fe68826e8543c46f2d7f8b152e\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+64            android:authorities="com.example.sensors.androidx-startup"
+64-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Anju Priya\.gradle\caches\transforms-3\791b39fe68826e8543c46f2d7f8b152e\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+65            android:exported="false" >
+65-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Anju Priya\.gradle\caches\transforms-3\791b39fe68826e8543c46f2d7f8b152e\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+66            <meta-data
+66-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Anju Priya\.gradle\caches\transforms-3\791b39fe68826e8543c46f2d7f8b152e\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+67                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+67-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Anju Priya\.gradle\caches\transforms-3\791b39fe68826e8543c46f2d7f8b152e\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+68                android:value="androidx.startup" />
+68-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Anju Priya\.gradle\caches\transforms-3\791b39fe68826e8543c46f2d7f8b152e\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+69            <meta-data
+69-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Anju Priya\.gradle\caches\transforms-3\1a68d17af36dbcea950a8a66c430e2e1\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+70                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+70-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Anju Priya\.gradle\caches\transforms-3\1a68d17af36dbcea950a8a66c430e2e1\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+71                android:value="androidx.startup" />
+71-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Anju Priya\.gradle\caches\transforms-3\1a68d17af36dbcea950a8a66c430e2e1\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+72            <meta-data
+72-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Anju Priya\.gradle\caches\transforms-3\766775ef9b8a5fb948a8a3da34e7cf54\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+73                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+73-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Anju Priya\.gradle\caches\transforms-3\766775ef9b8a5fb948a8a3da34e7cf54\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+74                android:value="androidx.startup" />
+74-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Anju Priya\.gradle\caches\transforms-3\766775ef9b8a5fb948a8a3da34e7cf54\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+75        </provider>
+76
+77        <receiver
+77-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Anju Priya\.gradle\caches\transforms-3\766775ef9b8a5fb948a8a3da34e7cf54\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+78            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+78-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Anju Priya\.gradle\caches\transforms-3\766775ef9b8a5fb948a8a3da34e7cf54\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+79            android:directBootAware="false"
+79-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Anju Priya\.gradle\caches\transforms-3\766775ef9b8a5fb948a8a3da34e7cf54\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+80            android:enabled="true"
+80-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Anju Priya\.gradle\caches\transforms-3\766775ef9b8a5fb948a8a3da34e7cf54\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+81            android:exported="true"
+81-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Anju Priya\.gradle\caches\transforms-3\766775ef9b8a5fb948a8a3da34e7cf54\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+82            android:permission="android.permission.DUMP" >
+82-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Anju Priya\.gradle\caches\transforms-3\766775ef9b8a5fb948a8a3da34e7cf54\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+83            <intent-filter>
+83-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Anju Priya\.gradle\caches\transforms-3\766775ef9b8a5fb948a8a3da34e7cf54\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+84                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+84-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Anju Priya\.gradle\caches\transforms-3\766775ef9b8a5fb948a8a3da34e7cf54\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+84-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Anju Priya\.gradle\caches\transforms-3\766775ef9b8a5fb948a8a3da34e7cf54\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+85            </intent-filter>
+86            <intent-filter>
+86-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Anju Priya\.gradle\caches\transforms-3\766775ef9b8a5fb948a8a3da34e7cf54\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+87                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+87-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Anju Priya\.gradle\caches\transforms-3\766775ef9b8a5fb948a8a3da34e7cf54\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+87-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Anju Priya\.gradle\caches\transforms-3\766775ef9b8a5fb948a8a3da34e7cf54\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+88            </intent-filter>
+89            <intent-filter>
+89-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Anju Priya\.gradle\caches\transforms-3\766775ef9b8a5fb948a8a3da34e7cf54\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+90                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+90-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Anju Priya\.gradle\caches\transforms-3\766775ef9b8a5fb948a8a3da34e7cf54\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+90-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Anju Priya\.gradle\caches\transforms-3\766775ef9b8a5fb948a8a3da34e7cf54\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+91            </intent-filter>
+92            <intent-filter>
+92-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Anju Priya\.gradle\caches\transforms-3\766775ef9b8a5fb948a8a3da34e7cf54\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+93                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+93-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Anju Priya\.gradle\caches\transforms-3\766775ef9b8a5fb948a8a3da34e7cf54\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+93-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Anju Priya\.gradle\caches\transforms-3\766775ef9b8a5fb948a8a3da34e7cf54\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+94            </intent-filter>
+95        </receiver>
+96    </application>
+97
+98</manifest>

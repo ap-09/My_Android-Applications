@@ -1,0 +1,330 @@
+[
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_ninja.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\ninja.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_baseline_person_outline_24.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\baseline_person_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_bheem.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\bheem.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_cards.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\cards.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_soil.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\soil.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_quiz.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\quiz.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_black.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\black.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_pokemon.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\pokemon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_doraemon.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\doraemon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\layout_activity_quiz.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\layout\\activity_quiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_mindgames.webp.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\mindgames.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_fblogo.png.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\fblogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_design.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\design.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_img.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\img.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\layout_activity_be_the_voice.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\layout\\activity_be_the_voice.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_wooden.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\wooden.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_fbbacckground.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\fbbacckground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_quizz.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\quizz.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_baseline_info_24.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\baseline_info_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_backgroundeditview.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\backgroundeditview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_plain.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\plain.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_quiztime.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\quiztime.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_l.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\l.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_yellow.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\yellow.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_questionmark.webp.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\questionmark.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_flow.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\flow.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_horror.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\horror.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_neww.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\neww.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_cream.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\cream.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_btn_gradient.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\btn_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_baseline_email_24.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\baseline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\layout_activity_sign_in.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_deewar.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\deewar.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_hideseek.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\hideseek.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_simple.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\simple.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_typing.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\typing.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_wood.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\wood.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_color.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\color.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_sim.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\sim.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_tuta.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\tuta.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.example.testyourself.app-merged_res-30:/layout_activity_splash_screen.xml.flat",
+        "source": "com.example.testyourself.app-main-32:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_neo.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\neo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_googlebackground.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\googlebackground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_drop.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\drop.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_kids.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\kids.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_images.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\images.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_shinchan.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\shinchan.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\layout_activity_brain_riddle.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\layout\\activity_brain_riddle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_grey.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\grey.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_cool.webp.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\cool.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_gplus.png.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\gplus.png"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_flower.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\flower.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_atisundar.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\atisundar.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_start.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\start.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_diamond.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\diamond.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_user.png.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_colour.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\colour.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_hideandseek.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\hideandseek.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\layout_activity_typing.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\layout\\activity_typing.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_logo.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\logo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_red1.jpg.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\red1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-merged_res-30:\\drawable_baseline_phone_24.xml.flat",
+        "source": "C:\\Users\\Anju Priya\\.gradle\\daemon\\7.5\\com.example.testyourself.app-main-32:\\drawable\\baseline_phone_24.xml"
+    }
+]

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.gtechyderabad.gtec.app-mergeDebugResources-37:/values-h320dp-port-v13/values-h320dp-port-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Anju Priya\\.gradle\\caches\\transforms-4\\ffc6380319776b4d2e1792dd3dad37c1\\transformed\\material-1.10.0\\res\\values-h320dp-port-v13\\values-h320dp-port-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "75",
+                        "endOffsets": "126"
+                    }
+                }
+            ]
+        }
+    ]
+}

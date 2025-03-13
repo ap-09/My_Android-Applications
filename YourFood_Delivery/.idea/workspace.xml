@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+    <layouts>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_detailed_daily_meal.xml">
+        <config>
+          <theme>@style/Theme.YourFood_Delivery</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml">
+        <config>
+          <theme>@style/Theme.YourFood_Delivery</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+        <config>
+          <theme>@style/Theme.YourFood_Delivery</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_payment.xml">
+        <config>
+          <theme>@style/Theme.YourFood_Delivery</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_registration.xml">
+        <config>
+          <theme>@style/Theme.YourFood_Delivery</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_track_location.xml">
+        <config>
+          <theme>@style/Theme.YourFood_Delivery</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_welcome.xml">
+        <config>
+          <theme>@style/Theme.YourFood_Delivery</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/app_bar_main.xml">
+        <config>
+          <theme>@style/Theme.YourFood_Delivery.NoActionBar</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/bottom_sheet_layout.xml">
+        <config>
+          <theme>@style/Theme.YourFood_Delivery</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/content_main.xml">
+        <config>
+          <theme>@style/Theme.YourFood_Delivery</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/custom_toast_layout.xml">
+        <config>
+          <theme>@style/Theme.YourFood_Delivery</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/daily_meal_fragment.xml">
+        <config>
+          <theme>@style/Theme.YourFood_Delivery</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/daily_meal_item.xml">
+        <config>
+          <theme>@style/Theme.YourFood_Delivery</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/detailed_daily_meal_item.xml">
+        <config>
+          <theme>@style/Theme.YourFood_Delivery</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/featured_hor_item.xml">
+        <config>
+          <theme>@style/Theme.YourFood_Delivery</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/featured_ver_item.xml">
+        <config>
+          <theme>@style/Theme.YourFood_Delivery</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_favourite.xml">
+        <config>
+          <theme>@style/Theme.YourFood_Delivery</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_first.xml">
+        <config>
+          <theme>@style/Theme.YourFood_Delivery</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml">
+        <config>
+          <theme>@style/Theme.YourFood_Delivery</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_my_cart.xml">
+        <config>
+          <theme>@style/Theme.YourFood_Delivery</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_second.xml">
+        <config>
+          <theme>@style/Theme.YourFood_Delivery</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_third.xml">
+        <config>
+          <theme>@style/Theme.YourFood_Delivery</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/home_horizontal_item.xml">
+        <config>
+          <theme>@style/Theme.YourFood_Delivery</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/home_vertical_item.xml">
+        <config>
+          <theme>@style/Theme.YourFood_Delivery</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/mycart_item.xml">
+        <config>
+          <theme>@style/Theme.YourFood_Delivery</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/nav_header_main.xml">
+        <config>
+          <theme>@style/Theme.YourFood_Delivery</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/payment_success_layout.xml">
+        <config>
+          <theme>@style/Theme.YourFood_Delivery</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/menu/activity_main_drawer.xml">
+        <config>
+          <theme>@style/Theme.YourFood_Delivery</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/menu/home_menu.xml">
+        <config>
+          <theme>@style/Theme.YourFood_Delivery</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/menu/main.xml">
+        <config>
+          <theme>@style/Theme.YourFood_Delivery</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/navigation/mobile_navigation.xml">
+        <config>
+          <theme>@style/Theme.YourFood_Delivery</theme>
+        </config>
+      </layout>
+    </layouts>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7e4b1b8a-86fe-4dc9-957e-90f77c65a260" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../HealthConscious/app/src/main/java/com/gtechyderabad/healthconscious/BMICalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HealthConscious/app/src/main/java/com/gtechyderabad/healthconscious/BodyShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HealthConscious/app/src/main/java/com/gtechyderabad/healthconscious/WaterIntake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HealthConscious/app/src/main/res/layout/activity_bmicalculator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HealthConscious/app/src/main/res/layout/activity_body_shape.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HealthConscious/app/src/main/res/layout/activity_water_intake.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../User_Manager/app/src/main/res/drawable/alt_btn_styling.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../User_Manager/app/src/main/res/drawable/main_btn_styling.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sensors/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sensors/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sensors/.idea/other.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sensors/.idea/other.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sensors/app/src/main/java/com/example/sensors/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sensors/app/src/main/java/com/example/sensors/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeStYOuRSeLf6/.idea/other.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TeStYOuRSeLf6/.idea/other.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeStYOuRSeLf6/app/src/main/java/com/example/testyourself/BeTheVoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TeStYOuRSeLf6/app/src/main/java/com/example/testyourself/BeTheVoice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeStYOuRSeLf6/app/src/main/java/com/example/testyourself/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TeStYOuRSeLf6/app/src/main/java/com/example/testyourself/MainActivity.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="YourFood_Delivery" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="YourFood_Delivery" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="YourFood_Delivery" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="YourFood_Delivery" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="layoutResourceFile" />
+        <option value="Class" />
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2tBAAq21C1pbCQzL1ok5NLbgeBj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Android App.app.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Anju Priya/AndroidStudioProjects/YourFood_Delivery/app/src/main/res/drawable&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;AndroidSdkUpdater&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.gtechyderabad.yourfood_delivery.ui.home" />
+    </key>
+    <key name="android.template.1580068428">
+      <recent name="com.gtechyderabad.yourfood_delivery.activities" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Anju Priya\AndroidStudioProjects\YourFood_Delivery\app\src\main\res\drawable" />
+      <recent name="C:\Users\Anju Priya\AndroidStudioProjects\YourFood_Delivery\app\src\main\res\layout" />
+    </key>
+    <key name="android.template.393924060">
+      <recent name="com.gtechyderabad.yourfood_delivery.activities" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Anju Priya\AndroidStudioProjects\YourFood_Delivery\app\src\main\res\drawable" />
+    </key>
+    <key name="android.template.1631298908">
+      <recent name="com.gtechyderabad.yourfood_delivery" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="YourFood_Delivery.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e4b1b8a-86fe-4dc9-957e-90f77c65a260" name="Changes" comment="" />
+      <created>1739814953551</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739814953551</updated>
+    </task>
+    <servers />
+  </component>
+</project>

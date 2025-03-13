@@ -1,0 +1,9 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#3700B3" /> <!-- Darker shade for pressed state -->
+    <corners android:radius="12dp" /> <!-- Rounded corners -->
+    <padding
+        android:top="8dp"
+        android:bottom="8dp"
+        android:left="12dp"
+        android:right="12dp" />
+</shape>

@@ -1,0 +1,6 @@
+com.gtechyderabad.gtec.test.app-annotation-experimental-1.4.0-0 C:\Users\Anju Priya\.gradle\caches\transforms-4\ac48d85810bbc6a8e6d83b4faf009410\transformed\annotation-experimental-1.4.0\res
+com.gtechyderabad.gtec.test.app-core-1.5.0-1 C:\Users\Anju Priya\.gradle\caches\transforms-4\efe4ca39464ed8bb2bb8628738781a9a\transformed\core-1.5.0\res
+com.gtechyderabad.gtec.test.app-androidTest-2 C:\Users\Anju Priya\AndroidStudioProjects\GTec\app\build\generated\res\resValues\androidTest\debug
+com.gtechyderabad.gtec.test.app-mergeDebugAndroidTestResources-3 C:\Users\Anju Priya\AndroidStudioProjects\GTec\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.gtechyderabad.gtec.test.app-mergeDebugAndroidTestResources-4 C:\Users\Anju Priya\AndroidStudioProjects\GTec\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.gtechyderabad.gtec.test.app-merged_res-5 C:\Users\Anju Priya\AndroidStudioProjects\GTec\app\build\intermediates\merged_res\debugAndroidTest

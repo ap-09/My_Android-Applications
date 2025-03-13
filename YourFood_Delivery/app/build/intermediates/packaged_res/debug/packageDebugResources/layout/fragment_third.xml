@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.ThirdFragment">
+
+    <!-- Full-Screen Background Image (e.g., a kitchen or chef environment) -->
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/cooking1" />
+
+    <!-- Semi-transparent overlay to enhance readability -->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#66000000" />
+
+    <!-- Content Container -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp"
+        android:layout_gravity="center"
+        android:gravity="center">
+
+        <!-- Section Header -->
+        <TextView
+            android:id="@+id/tvChefsHeader"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Our Chefs"
+            android:textSize="28sp"
+            android:textStyle="bold"
+            android:textColor="@android:color/white"
+            android:gravity="center" />
+
+        <!-- Subheading -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Meet the culinary masters behind our signature dishes"
+            android:textSize="16sp"
+            android:textColor="@android:color/white"
+            android:gravity="center"
+            android:paddingTop="8dp"
+            android:paddingBottom="16dp" />
+
+        <!-- Horizontal ScrollView for Chef Images -->
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scrollbars="none">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <!-- Chef Image 1 -->
+                <ImageView
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
+                    android:layout_marginRight="16dp"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/chef9"
+                    android:background="@drawable/circle_background" />
+
+                <!-- Chef Image 2 -->
+                <ImageView
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
+                    android:layout_marginRight="16dp"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/chef5"
+                    android:background="@drawable/circle_background" />
+
+                <!-- Chef Image 3 -->
+                <ImageView
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
+                    android:layout_marginRight="16dp"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/chef3"
+                    android:background="@drawable/circle_background" />
+
+                <!-- Chef Image 4 (Optional) -->
+                <ImageView
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
+                    android:layout_marginRight="16dp"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/chef7"
+                    android:background="@drawable/circle_background" />
+            </LinearLayout>
+        </HorizontalScrollView>
+    </LinearLayout>
+</FrameLayout>
