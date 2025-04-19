@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<selector xmlns:android="http://schemas.android.com/apk/res/android">
-    <!-- When pressed, use card_selected.xml -->
-    <item android:state_pressed="true" android:drawable="@drawable/card_selected" />
-    <!-- Default state uses card_default.xml -->
-    <item android:drawable="@drawable/card_default" />
-</selector>

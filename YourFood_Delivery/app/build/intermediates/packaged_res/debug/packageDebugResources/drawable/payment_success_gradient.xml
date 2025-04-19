@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<shape xmlns:android="http://schemas.android.com/apk/res/android"
-    android:shape="rectangle">
-    <!-- Subtle gradient from a light pastel color to a slightly deeper shade -->
-    <gradient
-        android:startColor="#E0F7FA"
-    android:endColor="@color/white"
-    android:angle="45" />
-</shape>
